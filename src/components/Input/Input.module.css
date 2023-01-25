@@ -1,0 +1,15 @@
+.input {
+    width: 150px;
+    height: 20px;
+    padding: 4px;
+    border: 1px solid rgba(20, 103, 67, 0.92);
+    margin-bottom: 5px;
+    border-radius: 5px;
+    color: rgba(19, 77, 50, 0.92);
+    outline: none;
+}
+
+.input::placeholder {
+    color: rgba(136, 157, 146, 0.99);
+}
+
